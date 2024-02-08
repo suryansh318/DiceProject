@@ -1,0 +1,31 @@
+body {
+    background-color: #1D2B53;
+}
+
+.container {
+    text-align: center;
+    color:#FAEF5D;
+}
+
+.dice {
+    display: inline-block;
+    margin : 10% 5% 10px 5%;
+}
+
+.heading {
+    margin:0px;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 5rem;
+    margin:0px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+}
+h2 {
+    font-size: 2.5rem;
+    margin:0px;
+}
+
+
